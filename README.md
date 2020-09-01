@@ -1,14 +1,14 @@
 # SwingLibrary
-SwingLibrary‚ÍASwing‚ÅUIŠJ”­‚·‚éÛ‚É–ğ—§‚ÂƒNƒ‰ƒX‚ğ‚Ü‚Æ‚ß‚½ƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
+SwingLibraryã¯ã€Swingã§UIé–‹ç™ºã™ã‚‹éš›ã«å½¹ç«‹ã¤ã‚¯ãƒ©ã‚¹ã‚’ã¾ã¨ã‚ãŸãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚
 
 ## Requirements
 Java 6 or later
 
 ## Usage
-src.exampleƒtƒHƒ‹ƒ_”z‰º‚ÌŠeƒNƒ‰ƒX‚ÌÀs—á‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>
-‚Ü‚½‚ÍA‰º‹LƒuƒƒO‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>
-[[Java][ƒTƒ“ƒvƒ‹ƒR[ƒh] Swing‚ÅJLabel‚ÉƒAƒ“ƒ_[ƒ‰ƒCƒ“‚ğˆø‚­](http://javasampleokiba.blog.fc2.com/blog-entry-17.html)<br>
-[[Java][ƒTƒ“ƒvƒ‹ƒR[ƒh] ƒƒjƒ…[ƒo[Aƒ|ƒbƒvƒAƒbƒvƒƒjƒ…[‚ğŠÈ’P‚Éì¬‚·‚é](http://javasampleokiba.blog.fc2.com/blog-entry-39.html)
+src.exampleãƒ•ã‚©ãƒ«ãƒ€é…ä¸‹ã®å„ã‚¯ãƒ©ã‚¹ã®å®Ÿè¡Œä¾‹ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚<br>
+ã¾ãŸã¯ã€ä¸‹è¨˜ãƒ–ãƒ­ã‚°ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚<br>
+[[Java][ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰] Swingã§JLabelã«ã‚¢ãƒ³ãƒ€ãƒ¼ãƒ©ã‚¤ãƒ³ã‚’å¼•ã](http://javasampleokiba.blog.fc2.com/blog-entry-17.html)<br>
+[[Java][ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰] ãƒ¡ãƒ‹ãƒ¥ãƒ¼ãƒãƒ¼ã€ãƒãƒƒãƒ—ã‚¢ãƒƒãƒ—ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’ç°¡å˜ã«ä½œæˆã™ã‚‹](http://javasampleokiba.blog.fc2.com/blog-entry-39.html)
 
 ## License
-LICENSE‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+[LICENSE](https://github.com/javasampleokiba/SwingLibrary/blob/master/LICENSE)ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
