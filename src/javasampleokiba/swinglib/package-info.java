@@ -1,0 +1,4 @@
+/**
+ * SwingLibraryのルートパッケージ
+ */
+package javasampleokiba.swinglib;
