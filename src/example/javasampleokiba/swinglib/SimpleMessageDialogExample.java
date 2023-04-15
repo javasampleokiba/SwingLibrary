@@ -26,7 +26,7 @@ public class SimpleMessageDialogExample extends JFrame {
          * ・エラーダイアログのボタンを「了解」に統一
          * ・情報ダイアログのボタンを「了解」に統一
          * ・警告ダイアログのボタンを「了解」「取消し」に統一
-         * ・質問ダイアログのボタンを「はい」「いいえ」取消し「」に統一
+         * ・質問ダイアログのボタンを「はい」「いいえ」「取消し」に統一
          */
         SimpleMessageDialog.setDefaultOptions(
                 SimpleMessageDialog.OptionType.DEFAULT_OPTION,
