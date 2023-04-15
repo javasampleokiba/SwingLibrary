@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"javasampleokiba.swinglib"},{"l":"javasampleokiba.swinglib.border"},{"l":"すべてのパッケージ","url":"allpackages-index.html"}]
+packageSearchIndex = [{"l":"javasampleokiba.swinglib"},{"l":"javasampleokiba.swinglib.border"},{"l":"すべてのパッケージ","u":"allpackages-index.html"}];updateSearchResults();
